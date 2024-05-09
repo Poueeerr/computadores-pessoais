@@ -191,6 +191,14 @@ hr {
     width: 100%;
 }
 
+p a   {
+    color: white;
+    font-weight: bold;
+}
+
+.section-centralize {
+    align-items: center;
+}
 
 
 @media screen and (max-width: 728px) {
@@ -260,6 +268,10 @@ hr {
     }
 
     .section-info img {
+        width: 100%;
+    }
+
+    iframe {
         width: 100%;
     }
 }
