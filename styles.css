@@ -20,6 +20,14 @@ html, body {
     background-position: center;
     flex-direction: column;
 }
+footer {
+    
+    width: 100%;
+    display: flex;
+    color: white;
+    align-items: center;
+}
+
 
 header {
     width: 100%;
