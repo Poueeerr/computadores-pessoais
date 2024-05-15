@@ -10,6 +10,8 @@ html, body {
     scroll-behavior: smooth;
 }
 
+
+
 #start-section {
     width: calc(100% - 36px);
     height: calc(100% - 36px);
@@ -122,6 +124,12 @@ button {
     place-items: center;
     
  }
+
+#ibmpc{
+    color: rgb(237, 255, 121);
+    font-style: bold;
+}
+
  .section-item .div-grid h2 {
 
     
